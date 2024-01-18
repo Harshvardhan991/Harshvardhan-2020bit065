@@ -1,0 +1,5 @@
+Name : Harshvardhan Vijaysinh Jadhav.
+Name of the Project : Car Price Prediction.
+Theme of the project with Objective : To Predict the Price of the Car using Machine Learning Algorithm.
+Career Aspirations and Goals : Want to become a Successful Person.
+Subject of Interest : AI & ML.

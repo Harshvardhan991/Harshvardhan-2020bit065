@@ -1,0 +1,2 @@
+Q13.
+Ans : Update City to Mumbai from customers where City=Delhi;

@@ -1,0 +1,2 @@
+Q11.
+Ans: Select Customers_ID from Orders where (TotalQuantity>0);

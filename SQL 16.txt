@@ -1,0 +1,3 @@
+Q16. 
+Ans : Select Customer_ID(3),TotalQuantity as no_of_orders_placed from Orders where GroupBy Customer_ID
+      OrderdBy TotalQuantity Desc;

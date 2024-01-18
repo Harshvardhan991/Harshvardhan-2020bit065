@@ -1,0 +1,3 @@
+Q15.
+Ans : Select name(5) from employee where GroupBy Id 
+      OrderdBy salary Desc; 
